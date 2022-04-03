@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2e6dec316d50f5741b125c99c70130a5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - USSR STENCIL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 96672978cf08c664593e8c8bba4899e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
